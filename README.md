@@ -1,8 +1,4 @@
-# Doc2PDF
-
-A simple website which Converts doc files to pdf ,
-uses React frontend and ExpressJs backend.
-
-## Features
-- **File Upload Middleware**: Uses Multer for handling file uploads.
-- **CSS Framework**: Tailwind CSS for styling.
+## Doc2PDf
+## simple website which uses React for frontend and Express for Backend.
+## Multer as a middleware for file Upload
+## css pre: Tailwind
